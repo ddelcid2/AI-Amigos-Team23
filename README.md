@@ -28,4 +28,6 @@ Then you will be transported to your own private awardy chat space.
 
 ## Examples
 
+Slides 5 and 6:
+https://docs.google.com/presentation/d/1Ir0uEYctMoDQlZDAucVNrpH7dSD6aVMn9qeKh_XD5XM/edit?usp=sharing
 
