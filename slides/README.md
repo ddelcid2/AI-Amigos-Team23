@@ -1,3 +1,3 @@
-# Presentation slide
+# Presentation slides
 
-Please place your team's final presentation slides in this directory.
+https://docs.google.com/presentation/d/1Ir0uEYctMoDQlZDAucVNrpH7dSD6aVMn9qeKh_XD5XM/edit?usp=sharing
